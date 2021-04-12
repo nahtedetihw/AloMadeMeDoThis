@@ -1,0 +1,9 @@
+Package: com.nahtedetihw.alomademedothis
+Name: AloMadeMeDoThis
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Change the volume knob on ls music player to be able to theme it!
+Maintainer: Ethan Whited
+Author: Ethan Whited
+Section: Tweaks
+Depends: mobilesubstrate
